@@ -9,7 +9,7 @@ def paths():
     '''
     Converting filepaths in m3u playlists to relative filepaths for Linux.
 
-    Assumesl the file structure is exactly the same once you get into the old iTunesMedia directory, so if you mess that up, you're screwed.
+    Assumes the file structure is exactly the same once you get into the old iTunesMedia directory, so if you mess that up, you're screwed.
 
     Also, obviously, this only works on my playlists for now. Possible future work: generalize what you want to delete from the filepaths?
     '''
